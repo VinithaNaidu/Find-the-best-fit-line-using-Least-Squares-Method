@@ -1,4 +1,4 @@
-## EXPERIMENT NO. 01
+## EXP NO. 01
 # Implementation of Univariate Linear Regression
 ### Date : 17.08.23
 ## AIM:
